@@ -1,4 +1,4 @@
-module github.com/coralogix/go-coralogix-sdk
+module github.com/hashcorp8/go-coralogix-sdk
 
 go 1.19
 
